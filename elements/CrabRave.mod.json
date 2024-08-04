@@ -4,7 +4,7 @@
   "definition": {
     "name": "Music Disc",
     "rarity": "COMMON",
-    "texture": "crabrave-disc",
+    "texture": "crab_rave_disc",
     "description": "Noisestorm - Crab Rave",
     "creativeTab": {
       "value": "TOOLS"
