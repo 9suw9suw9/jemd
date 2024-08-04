@@ -1,0 +1,82 @@
+{
+  "diamond_cave": {
+    "sounds": [
+      {
+        "name": "jemd:diamond-cave_1",
+        "stream": true
+      }
+    ]
+  },
+  "soulless": {
+    "sounds": [
+      {
+        "name": "jemd:soulless-fan-made-minecraft-music-disc_1",
+        "stream": true
+      }
+    ]
+  },
+  "no_escape": {
+    "sounds": [
+      {
+        "name": "jemd:no-escape-_ft.-_laudividniyt_-fan-made-minecraft-music-disc",
+        "stream": true
+      }
+    ]
+  },
+  "breeze": {
+    "sounds": [
+      {
+        "name": "jemd:breeze-fan-made-minecraft-1.21-music-disc_1",
+        "stream": true
+      }
+    ]
+  },
+  "distorted_eyes": {
+    "sounds": [
+      {
+        "name": "jemd:distorted-eyes-fanmade-minecraft-music-disc",
+        "stream": true
+      }
+    ]
+  },
+  "sakuravalley": {
+    "sounds": [
+      {
+        "name": "jemd:sakura_valley_-_fan_made_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "shrieker": {
+    "sounds": [
+      {
+        "name": "jemd:shrieker_-_fan_made_minecraft_1.19_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "whispering_woods": {
+    "sounds": [
+      {
+        "name": "jemd:whispering_woods_-_fan_made_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "nightfall": {
+    "sounds": [
+      {
+        "name": "jemd:nightfall_-_fan_made_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  },
+  "ochre": {
+    "sounds": [
+      {
+        "name": "jemd:ochre_ft.__acell2r8b77_-_fan_made_minecraft_music_disc",
+        "stream": true
+      }
+    ]
+  }
+}

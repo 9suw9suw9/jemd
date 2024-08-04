@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "distorted_eyes",
+    "description": "Galaxy Keys Music - Distorted Eyes",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:distorted_eyes"
+    },
+    "lengthInTicks": 3360,
+    "analogOutput": 0
+  }
+}

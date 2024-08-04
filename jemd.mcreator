@@ -1,0 +1,355 @@
+{
+  "mod_elements": [
+    {
+      "name": "Blok",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blok",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jemd/models/item/blok.json",
+          "src/main/resources/assets/jemd/blockstates/blok.json",
+          "src/main/resources/assets/jemd/models/block/blok.json",
+          "src/main/resources/data/jemd/loot_tables/blocks/blok.json",
+          "src/main/java/net/mcreator/jemd/block/BlokBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "NoEscape",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "no_escape",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/NoEscapeItem.java",
+          "src/main/resources/assets/jemd/models/item/no_escape.json"
+        ]
+      }
+    },
+    {
+      "name": "Diamondcave",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondcave",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/DiamondcaveItem.java",
+          "src/main/resources/assets/jemd/models/item/diamondcave.json"
+        ]
+      }
+    },
+    {
+      "name": "Soulless",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soulless",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/SoullessItem.java",
+          "src/main/resources/assets/jemd/models/item/soulless.json"
+        ]
+      }
+    },
+    {
+      "name": "Breeze",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "breeze",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jemd/models/item/breeze.json",
+          "src/main/java/net/mcreator/jemd/item/BreezeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DistortedEyes",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distorted_eyes",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/DistortedEyesItem.java",
+          "src/main/resources/assets/jemd/models/item/distorted_eyes.json"
+        ]
+      }
+    },
+    {
+      "name": "SakuraValley",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sakura_valley",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jemd/models/item/sakura_valley.json",
+          "src/main/java/net/mcreator/jemd/item/SakuraValleyItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Shrieker",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shrieker",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/ShriekerItem.java",
+          "src/main/resources/assets/jemd/models/item/shrieker.json"
+        ]
+      }
+    },
+    {
+      "name": "WhisperingWoods",
+      "type": "musicdisc",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whispering_woods",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/jemd/models/item/whispering_woods.json",
+          "src/main/java/net/mcreator/jemd/item/WhisperingWoodsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NightFall",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "night_fall",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/NightFallItem.java",
+          "src/main/resources/assets/jemd/models/item/night_fall.json"
+        ]
+      }
+    },
+    {
+      "name": "Ochre",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ochre",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/OchreItem.java",
+          "src/main/resources/assets/jemd/models/item/ochre.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "diamond_cave",
+      "files": [
+        "diamond-cave_1"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "soulless",
+      "files": [
+        "soulless-fan-made-minecraft-music-disc_1"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "no_escape",
+      "files": [
+        "no-escape-_ft.-_laudividniyt_-fan-made-minecraft-music-disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "breeze",
+      "files": [
+        "breeze-fan-made-minecraft-1.21-music-disc_1"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "distorted_eyes",
+      "files": [
+        "distorted-eyes-fanmade-minecraft-music-disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "sakuravalley",
+      "files": [
+        "sakura_valley_-_fan_made_minecraft_music_disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "shrieker",
+      "files": [
+        "shrieker_-_fan_made_minecraft_1.19_music_disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "whispering_woods",
+      "files": [
+        "whispering_woods_-_fan_made_minecraft_music_disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "nightfall",
+      "files": [
+        "nightfall_-_fan_made_minecraft_music_disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "ochre",
+      "files": [
+        "ochre_ft.__acell2r8b77_-_fan_made_minecraft_music_disc"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Blok"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Ochre",
+      "~CUSTOM:NightFall",
+      "~CUSTOM:WhisperingWoods",
+      "~CUSTOM:Shrieker",
+      "~CUSTOM:SakuraValley",
+      "~CUSTOM:DistortedEyes",
+      "~CUSTOM:Breeze",
+      "~CUSTOM:Soulless",
+      "~CUSTOM:Diamondcave",
+      "~CUSTOM:NoEscape"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "subtitles.whispering_woods": "",
+      "item.jemd.sakura_valley.desc": "Laudividni - Sakura Valley",
+      "item.test.obsessed": "Music Disc",
+      "item.test.tempo.desc": "Margaret - Tempo",
+      "block.jemd.blok": "Purple Bricks",
+      "item.jemd.no_escape": "Music Disc",
+      "item.jemd.whispering_woods": "Music Disc",
+      "subtitles.distorted_eyes": "",
+      "item.jem.diamondcave": "Music Disc",
+      "item.jem.soulless": "Music Disc",
+      "subtitles.tempo": "",
+      "subtitles.obsessed": "",
+      "item.jem.shrieker.desc": "T_en_M - Shrieker",
+      "subtitles.no_escape": "",
+      "subtitles.pedro": "",
+      "item.test.distorted_eyes": "Music Disc",
+      "item.jem.sakura_valley": "Music Disc",
+      "item.test.soulless.desc": "T_en_M - Soulless",
+      "block.test.blok": "Purple Bricks",
+      "item.jemd.night_fall": "Music Disc",
+      "item.jem.no_escape": "Music Disc",
+      "item.jem.shrieker": "Music Disc",
+      "block.jem.blok": "Purple Bricks",
+      "item.test.no_escape": "Music Disc",
+      "subtitles.diamond_cave": "",
+      "subtitles.sakuravalley": "",
+      "item.jemd.distorted_eyes.desc": "Galaxy Keys Music - Distorted Eyes",
+      "item.jem.whispering_woods.desc": "Laudividni - Whispering Woods",
+      "subtitles.shrieker": "",
+      "subtitles.soulless": "",
+      "item.test.breeze.desc": "T_en_M - Breeze",
+      "item.jem.whispering_woods": "Music Disc",
+      "item.jemd.whispering_woods.desc": "Laudividni - Whispering Woods",
+      "item.test.tempo": "Music Disc",
+      "item.test.distorted_eyes.desc": "Galaxy Keys Music - Distorted Eyes",
+      "item.jemd.shrieker.desc": "T_en_M - Shrieker",
+      "item.jem.sakura_valley.desc": "Laudividni - Sakura Valley",
+      "subtitles.breeze": "",
+      "item.jemd.ochre": "Music Disc",
+      "item.jemd.sakura_valley": "Music Disc",
+      "subtitles.nightfall": "",
+      "item.jem.breeze.desc": "T_en_M - Breeze",
+      "item.jem.soulless.desc": "T_en_M - Soulless",
+      "item.jem.distorted_eyes.desc": "Galaxy Keys Music - Distorted Eyes",
+      "item.jemd.breeze": "Music Disc",
+      "item.jemd.soulless": "Music Disc",
+      "item.jemd.no_escape.desc": "T_en_M - No Escape",
+      "item.test.soulless": "Music Disc",
+      "item.test.no_escape.desc": "T_en_M - No Escape",
+      "subtitles.ochre": "",
+      "item.test.obsessed.desc": "Olivia Rodrigo- Obsessed",
+      "item.test.diamondcave.desc": "Laudividni - Diamond Cave",
+      "item.jemd.shrieker": "Music Disc",
+      "item.jemd.diamondcave": "Music Disc",
+      "item.jemd.breeze.desc": "T_en_M - Breeze",
+      "item.test.pedro": "Music Disc",
+      "item.jem.no_escape.desc": "T_en_M - No Escape",
+      "item.jemd.distorted_eyes": "Music Disc",
+      "item.jem.breeze": "Music Disc",
+      "item.jemd.soulless.desc": "T_en_M - Soulless",
+      "item.jem.diamondcave.desc": "Laudividni - Diamond Cave",
+      "item.jemd.night_fall.desc": "Laudividni - Nightfall",
+      "item.jemd.ochre.desc": "T_en_M - Ochre",
+      "item.jemd.diamondcave.desc": "Laudividni - Diamond Cave",
+      "item.test.breeze": "Music Disc",
+      "item.test.pedro.desc": "Jaxomy - Pedro",
+      "item.jem.distorted_eyes": "Music Disc",
+      "item.test.diamondcave": "Music Disc"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jemd",
+    "modName": "Just Enough Music Discs (JEMD)",
+    "version": "1.0.0",
+    "description": "A mod which adds 20 music discs in total!",
+    "author": "Kiteczek",
+    "websiteURL": "https://www.youtube.com/channel/UCpxy-bfmnZwX4qgkIS31Z-w",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "eee",
+    "modElementsPackage": "net.mcreator.jemd"
+  },
+  "mcreatorVersion": 202400118518
+}
