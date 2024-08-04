@@ -78,5 +78,13 @@
         "stream": true
       }
     ]
+  },
+  "crabrave": {
+    "sounds": [
+      {
+        "name": "jemd:crab-rave",
+        "stream": true
+      }
+    ]
   }
 }

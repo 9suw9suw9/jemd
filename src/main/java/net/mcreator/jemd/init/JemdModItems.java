@@ -21,6 +21,7 @@ import net.mcreator.jemd.item.NoEscapeItem;
 import net.mcreator.jemd.item.NightFallItem;
 import net.mcreator.jemd.item.DistortedEyesItem;
 import net.mcreator.jemd.item.DiamondcaveItem;
+import net.mcreator.jemd.item.CrabRaveItem;
 import net.mcreator.jemd.item.BreezeItem;
 import net.mcreator.jemd.JemdMod;
 
@@ -37,6 +38,7 @@ public class JemdModItems {
 	public static final RegistryObject<Item> WHISPERING_WOODS = REGISTRY.register("whispering_woods", () -> new WhisperingWoodsItem());
 	public static final RegistryObject<Item> NIGHT_FALL = REGISTRY.register("night_fall", () -> new NightFallItem());
 	public static final RegistryObject<Item> OCHRE = REGISTRY.register("ochre", () -> new OchreItem());
+	public static final RegistryObject<Item> CRAB_RAVE = REGISTRY.register("crab_rave", () -> new CrabRaveItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
