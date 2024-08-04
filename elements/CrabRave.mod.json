@@ -7,7 +7,7 @@
     "texture": "crabrave-disc",
     "description": "Noisestorm - Crab Rave",
     "creativeTab": {
-      "value": "No creative tab entry"
+      "value": "TOOLS"
     },
     "specialInformation": {
       "fixedValue": []
@@ -18,7 +18,7 @@
     "music": {
       "value": "CUSTOM:crabrave"
     },
-    "lengthInTicks": 100,
+    "lengthInTicks": 112,
     "analogOutput": 15
   }
 }
