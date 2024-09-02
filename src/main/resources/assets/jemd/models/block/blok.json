@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jemd:block/purple_brick",
+    "up": "jemd:block/purple_brick",
+    "north": "jemd:block/purple_brick",
+    "east": "jemd:block/purple_brick",
+    "south": "jemd:block/purple_brick",
+    "west": "jemd:block/purple_brick",
+    "particle": "jemd:block/purple_brick"
+  },
+  "render_type": "solid"
+}

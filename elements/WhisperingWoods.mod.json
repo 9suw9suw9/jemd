@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "whispering_woods",
+    "description": "Laudividni - Whispering Woods",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:whispering_woods"
+    },
+    "lengthInTicks": 2780,
+    "analogOutput": 0
+  }
+}

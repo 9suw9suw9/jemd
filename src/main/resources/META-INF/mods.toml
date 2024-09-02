@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="jemd"
+version="1.0.0"
+displayName="Just Enough Music Discs (JEMD)"
+displayURL="https://www.youtube.com/channel/UCpxy-bfmnZwX4qgkIS31Z-w"
+credits="eee"
+authors="Kiteczek"
+description="A mod which adds 20 music discs in total!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.jemd]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

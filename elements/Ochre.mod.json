@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "ochre",
+    "description": "T_en_M - Ochre",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:ochre"
+    },
+    "lengthInTicks": 3260,
+    "analogOutput": 0
+  }
+}
