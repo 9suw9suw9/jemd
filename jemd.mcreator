@@ -10,10 +10,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/jemd/models/item/blok.json",
-          "src/main/resources/assets/jemd/blockstates/blok.json",
           "src/main/resources/assets/jemd/models/block/blok.json",
-          "src/main/resources/data/jemd/loot_tables/blocks/blok.json",
-          "src/main/java/net/mcreator/jemd/block/BlokBlock.java"
+          "src/main/resources/assets/jemd/blockstates/blok.json",
+          "src/main/java/net/mcreator/jemd/block/BlokBlock.java",
+          "src/main/resources/data/jemd/loot_tables/blocks/blok.json"
         ]
       }
     },
@@ -26,8 +26,8 @@
       "registry_name": "no_escape",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/jemd/item/NoEscapeItem.java",
-          "src/main/resources/assets/jemd/models/item/no_escape.json"
+          "src/main/resources/assets/jemd/models/item/no_escape.json",
+          "src/main/java/net/mcreator/jemd/item/NoEscapeItem.java"
         ]
       }
     },
@@ -54,8 +54,8 @@
       "registry_name": "soulless",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/jemd/item/SoullessItem.java",
-          "src/main/resources/assets/jemd/models/item/soulless.json"
+          "src/main/resources/assets/jemd/models/item/soulless.json",
+          "src/main/java/net/mcreator/jemd/item/SoullessItem.java"
         ]
       }
     },
@@ -82,8 +82,8 @@
       "registry_name": "distorted_eyes",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/jemd/item/DistortedEyesItem.java",
-          "src/main/resources/assets/jemd/models/item/distorted_eyes.json"
+          "src/main/resources/assets/jemd/models/item/distorted_eyes.json",
+          "src/main/java/net/mcreator/jemd/item/DistortedEyesItem.java"
         ]
       }
     },
@@ -96,8 +96,8 @@
       "registry_name": "sakura_valley",
       "metadata": {
         "files": [
-          "src/main/resources/assets/jemd/models/item/sakura_valley.json",
-          "src/main/java/net/mcreator/jemd/item/SakuraValleyItem.java"
+          "src/main/java/net/mcreator/jemd/item/SakuraValleyItem.java",
+          "src/main/resources/assets/jemd/models/item/sakura_valley.json"
         ]
       }
     },
@@ -110,8 +110,8 @@
       "registry_name": "shrieker",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/jemd/item/ShriekerItem.java",
-          "src/main/resources/assets/jemd/models/item/shrieker.json"
+          "src/main/resources/assets/jemd/models/item/shrieker.json",
+          "src/main/java/net/mcreator/jemd/item/ShriekerItem.java"
         ]
       }
     },
@@ -138,8 +138,8 @@
       "registry_name": "night_fall",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/jemd/item/NightFallItem.java",
-          "src/main/resources/assets/jemd/models/item/night_fall.json"
+          "src/main/resources/assets/jemd/models/item/night_fall.json",
+          "src/main/java/net/mcreator/jemd/item/NightFallItem.java"
         ]
       }
     },
@@ -152,8 +152,8 @@
       "registry_name": "ochre",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/jemd/item/OchreItem.java",
-          "src/main/resources/assets/jemd/models/item/ochre.json"
+          "src/main/resources/assets/jemd/models/item/ochre.json",
+          "src/main/java/net/mcreator/jemd/item/OchreItem.java"
         ]
       }
     },
@@ -288,14 +288,14 @@
       "item.test.obsessed": "Music Disc",
       "item.test.tempo.desc": "Margaret - Tempo",
       "block.jemd.blok": "Purple Bricks",
-      "item.jemd.no_escape": "Music Disc",
       "item.jemd.whispering_woods": "Music Disc",
+      "item.jemd.no_escape": "Music Disc",
       "subtitles.distorted_eyes": "",
       "item.jem.diamondcave": "Music Disc",
       "item.jem.soulless": "Music Disc",
       "subtitles.union": "",
-      "subtitles.tempo": "",
       "subtitles.obsessed": "",
+      "subtitles.tempo": "",
       "item.jem.shrieker.desc": "T_en_M - Shrieker",
       "subtitles.no_escape": "",
       "subtitles.pedro": "",
