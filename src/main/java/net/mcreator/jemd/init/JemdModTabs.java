@@ -34,6 +34,7 @@ public class JemdModTabs {
 			tabData.accept(JemdModItems.WHISPERING_WOODS.get());
 			tabData.accept(JemdModItems.NIGHT_FALL.get());
 			tabData.accept(JemdModItems.OCHRE.get());
+			tabData.accept(JemdModItems.UNION.get());
 		}
 	}
 }

@@ -78,5 +78,13 @@
         "stream": true
       }
     ]
+  },
+  "union": {
+    "sounds": [
+      {
+        "name": "jemd:union-fan-made-minecraft-music-disc",
+        "stream": true
+      }
+    ]
   }
 }

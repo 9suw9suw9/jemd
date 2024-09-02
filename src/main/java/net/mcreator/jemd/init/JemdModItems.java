@@ -13,6 +13,7 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.jemd.item.WhisperingWoodsItem;
+import net.mcreator.jemd.item.UnionItem;
 import net.mcreator.jemd.item.SoullessItem;
 import net.mcreator.jemd.item.ShriekerItem;
 import net.mcreator.jemd.item.SakuraValleyItem;
@@ -37,6 +38,7 @@ public class JemdModItems {
 	public static final RegistryObject<Item> WHISPERING_WOODS = REGISTRY.register("whispering_woods", () -> new WhisperingWoodsItem());
 	public static final RegistryObject<Item> NIGHT_FALL = REGISTRY.register("night_fall", () -> new NightFallItem());
 	public static final RegistryObject<Item> OCHRE = REGISTRY.register("ochre", () -> new OchreItem());
+	public static final RegistryObject<Item> UNION = REGISTRY.register("union", () -> new UnionItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
