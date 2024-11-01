@@ -35,6 +35,7 @@ public class JemdModTabs {
 			tabData.accept(JemdModItems.NIGHT_FALL.get());
 			tabData.accept(JemdModItems.OCHRE.get());
 			tabData.accept(JemdModItems.UNION.get());
+			tabData.accept(JemdModItems.CRAB_RAVE.get());
 		}
 	}
 }
