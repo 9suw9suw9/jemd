@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Crab Rave",
+    "rarity": "UNCOMMON",
+    "texture": "crab_rave_disc",
+    "description": "Noisestorm",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:crabrave"
+    },
+    "lengthInTicks": 20000,
+    "analogOutput": 0
+  }
+}

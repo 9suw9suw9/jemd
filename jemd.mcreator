@@ -170,6 +170,20 @@
           "src/main/java/net/mcreator/jemd/item/UnionItem.java"
         ]
       }
+    },
+    {
+      "name": "CrabRave",
+      "type": "musicdisc",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crab_rave",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/jemd/item/CrabRaveItem.java",
+          "src/main/resources/assets/jemd/models/item/crab_rave.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -261,6 +275,14 @@
       ],
       "category": "music",
       "subtitle": ""
+    },
+    {
+      "name": "crabrave",
+      "files": [
+        "crab-rave"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "tag_elements": {
@@ -268,6 +290,7 @@
       "~CUSTOM:Blok"
     ],
     "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:CrabRave",
       "~CUSTOM:Union",
       "~CUSTOM:Ochre",
       "~CUSTOM:NightFall",
@@ -288,14 +311,15 @@
       "item.test.obsessed": "Music Disc",
       "item.test.tempo.desc": "Margaret - Tempo",
       "block.jemd.blok": "Purple Bricks",
-      "item.jemd.whispering_woods": "Music Disc",
       "item.jemd.no_escape": "Music Disc",
+      "item.jemd.whispering_woods": "Music Disc",
       "subtitles.distorted_eyes": "",
       "item.jem.diamondcave": "Music Disc",
+      "item.jemd.crab_rave.desc": "Noisestorm",
       "item.jem.soulless": "Music Disc",
       "subtitles.union": "",
-      "subtitles.obsessed": "",
       "subtitles.tempo": "",
+      "subtitles.obsessed": "",
       "item.jem.shrieker.desc": "T_en_M - Shrieker",
       "subtitles.no_escape": "",
       "subtitles.pedro": "",
@@ -328,6 +352,7 @@
       "subtitles.nightfall": "",
       "item.jem.breeze.desc": "T_en_M - Breeze",
       "item.jem.soulless.desc": "T_en_M - Soulless",
+      "subtitles.crabrave": "",
       "item.jem.distorted_eyes.desc": "Galaxy Keys Music - Distorted Eyes",
       "item.jemd.breeze": "Music Disc",
       "item.jemd.soulless": "Music Disc",
@@ -340,6 +365,7 @@
       "item.jemd.shrieker": "Music Disc",
       "item.jemd.union": "Music Disc",
       "item.jemd.diamondcave": "Music Disc",
+      "item.jemd.crab_rave": "Crab Rave",
       "item.jemd.breeze.desc": "T_en_M - Breeze",
       "item.test.pedro": "Music Disc",
       "item.jem.no_escape.desc": "T_en_M - No Escape",

@@ -26,4 +26,5 @@ public class JemdModSounds {
 	public static final RegistryObject<SoundEvent> NIGHTFALL = REGISTRY.register("nightfall", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("jemd", "nightfall")));
 	public static final RegistryObject<SoundEvent> OCHRE = REGISTRY.register("ochre", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("jemd", "ochre")));
 	public static final RegistryObject<SoundEvent> UNION = REGISTRY.register("union", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("jemd", "union")));
+	public static final RegistryObject<SoundEvent> CRABRAVE = REGISTRY.register("crabrave", () -> SoundEvent.createVariableRangeEvent(new ResourceLocation("jemd", "crabrave")));
 }
